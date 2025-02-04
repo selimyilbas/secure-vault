@@ -1,5 +1,16 @@
 # secure-vault
 
+## Table of Contents
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [About](#about)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
