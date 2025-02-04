@@ -9,7 +9,7 @@
 
 # Secure Vault
 
-Secure Vault is a Python based file management system that combines AES-256 encryption for data security and SHA hashing for ensuring data integrity. Designed to protect sensitive files, it offers advanced encryption techniques and features a user-friendly graphical interface, making secure file storage and management both efficient and accessible.
+Secure Vault is a Python based file management system that combines **AES-256** encryption for data security and **SHA hashing** for ensuring data integrity. Designed to protect sensitive files, it offers advanced encryption techniques and features a user-friendly graphical interface, making secure file storage and management both efficient and accessible.
 
 
 
