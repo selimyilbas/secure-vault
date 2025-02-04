@@ -5,11 +5,20 @@ Secure Vault is a Python-based file management system designed for securely stor
 
 ## Features
 
+
 -> **Create Encrypted Vaults:** Users can create vaults with a password to securely store files.
+
+![Kapture 2025-02-04 at 03 24 13 03 31 02](https://github.com/user-attachments/assets/9e07b2a7-ca5d-4a84-bb9b-8103c0d324b2)
+
+
 
 -> **File Encryption:** Files are encrypted when added to the vault, ensuring their security.
 
+![Kapture 2025-02-04 at 01 48 20](https://github.com/user-attachments/assets/55431aeb-fbc0-4d2a-a0ab-c50d723c7809)
+
 -> **File Management:** Add, list, remove, and extract files from the vault through the graphical interface.
+
+![Kapture 2025-02-04 at 01 44 02](https://github.com/user-attachments/assets/b8c53b6c-cbb2-4acb-a0f4-fc779cbc951c)
 
 -> **Integrity Check:** Ensures that files are not tampered with inside the vault.
 
