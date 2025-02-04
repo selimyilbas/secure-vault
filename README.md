@@ -73,7 +73,7 @@ python3 gui.py
 
 -> **Create a Vault:** Enter a vault path and password, then click "Create Vault."
 
--> **Open a Vault:** Use the same vault path and password to access an existing vault.
+-> **Open a Vault:** Use the same vault path (use .vault after your username to relogin after the vault has created) and password to access an existing vault.
 
 -> **Add Files:** Add files to the vault for encryption.
 
