@@ -1,16 +1,3 @@
-# secure-vault
-
-## Table of Contents
-- [Features](#features)
-- [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [About](#about)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
@@ -19,6 +6,32 @@
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
 ![Tech Stack](https://img.shields.io/badge/tech-stack-blueviolet)
 ![GitHub contributors](https://img.shields.io/github/contributors/selimyilbas/Secure-Vault)
+# Secure Vault
+
+Secure Vault is a Python based file management system that combines AES-256 encryption for robust data security and SHA hashing for ensuring data integrity. Designed to protect sensitive files, it offers advanced encryption techniques and features a user-friendly graphical interface, making secure file storage and management both efficient and accessible.
+
+
+
+
+## Table of Contents
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+
+
+## Project Motivation
+The Secure Vault project was developed as a practical implementation of encryption and secure file management techniques. It emphasizes privacy and data integrity, making it ideal for anyone needing a simple and secure way to manage sensitive files.
+
+
+
+  ## Technologies Used
+- **Python**: Programming language.
+- **Tkinter**: For the graphical user interface (GUI).
+- **Pillow**: For image processing.
+- **Cryptography**: For AES-256 encryption and SHA hashing.
+- **PBKDF2**: For password-based key derivation.
+- **Git**: Version control.
 
 
 Secure Vault is a Python-based file management system designed for securely storing, encrypting, and managing files. It uses advanced encryption techniques to protect your data and provides an easy-to-use graphical interface for interaction.
