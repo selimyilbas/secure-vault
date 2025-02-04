@@ -1,14 +1,15 @@
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/selimyilbas/Secure-Vault)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
-![Tech Stack](https://img.shields.io/badge/tech-stack-blueviolet)
 ![GitHub contributors](https://img.shields.io/github/contributors/selimyilbas/Secure-Vault)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/selimyilbas/Secure-Vault)
+![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Tech Stack](https://img.shields.io/badge/tech-stack-blueviolet)
+
 # Secure Vault
 
-Secure Vault is a Python based file management system that combines AES-256 encryption for robust data security and SHA hashing for ensuring data integrity. Designed to protect sensitive files, it offers advanced encryption techniques and features a user-friendly graphical interface, making secure file storage and management both efficient and accessible.
+Secure Vault is a Python based file management system that combines AES-256 encryption for data security and SHA hashing for ensuring data integrity. Designed to protect sensitive files, it offers advanced encryption techniques and features a user-friendly graphical interface, making secure file storage and management both efficient and accessible.
 
 
 
@@ -34,7 +35,6 @@ The Secure Vault project was developed as a practical implementation of encrypti
 - **Git**: Version control.
 
 
-Secure Vault is a Python-based file management system designed for securely storing, encrypting, and managing files. It uses advanced encryption techniques to protect your data and provides an easy-to-use graphical interface for interaction.
 
 ## Features
 
