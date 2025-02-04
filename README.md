@@ -35,28 +35,29 @@ cd secure-vault
 
 Create a virtual environment to manage dependencies:
 
-
+```
 python3 -m venv venv
+```
 
 
 Activate the virtual environment:
 
 On macOS/Linux:
 
-```bash
+```
 source venv/bin/activate
 ```
 
 On Windows:
 
-```bash
+```
 venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
 Install the required Python libraries:
 
-```bash
+```
 pip install pillow
 pip install cryptography
 ```
@@ -65,7 +66,7 @@ pip install cryptography
    
 Start the Secure Vault GUI:
 
-```bash
+```
 python3 gui.py
 ```
 
